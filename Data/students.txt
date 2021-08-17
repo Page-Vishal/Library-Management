@@ -1,0 +1,48 @@
+THA077BEI001	Aadarsha Khadka
+THA077BEI002	Aayush  Pathak
+THA077BEI003	Abhinav Chalise
+THA077BEI004	Adamya Neupane
+THA077BEI005	Amit Chand
+THA077BEI006	Anand Gharti
+THA077BEI007	Anish Timsina
+THA077BEI008	Arnab Manandhar
+THA077BEI009	Ashim Panthi
+THA077BEI010	Bal krishna Shah
+THA077BEI011	Bikash Pandey
+THA077BEI012	Biplav Raj Chitrakar
+THA077BEI013	Bishal Bhandari
+THA077BEI014	Bishal Giri
+THA077BEI015	Bishal Khadka
+THA077BEI016	Chandan Kumar Pandit
+THA077BEI017	Chandra Mohan Sah
+THA077BEI018	Hari  Krishna Joshi
+THA077BEI019	Jyotsna  Jha
+THA077BEI020	Kalyan Kumar Shrestha
+THA077BEI021	Kapur Pant
+THA077BEI022	Khagendra Raj Joshi
+THA077BEI023	Kiran Chand
+THA077BEI024	Looza Subedy
+THA077BEI025	Mohit  Bhusal
+THA077BEI026	Nimesh Gopal Pradhan
+THA077BEI027	Nishan  Khanal
+THA077BEI028	Nixon Raj Dhakal
+THA077BEI029	Prabuddha Kandel
+THA077BEI030	Pragyan Bhattarai
+THA077BEI031	Prahlad Acharya
+THA077BEI032	Prashant Raj Bista
+THA077BEI033	Raman Bhattarai
+THA077BEI034	Rijan Pokhrel
+THA077BEI035	Sabin Acharya
+THA077BEI036	Safal Karki
+THA077BEI037	Sakar Dahal
+THA077BEI038	Samir Khanal
+THA077BEI039	Samriddhi Shah
+THA077BEI040	Santosh Acharya
+THA077BEI041	Santosh Prasad Yadav
+THA077BEI042	Saugat Bhatta
+THA077BEI043	Saugat Neupane
+THA077BEI044	Shakshi Kejriwal
+THA077BEI045	Sudipti Upreti
+THA077BEI046	Sugam Khatiwada
+THA077BEI047	Sworup  Karki
+THA077BEI048	Vishal Sigdel

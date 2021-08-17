@@ -1,0 +1,6 @@
+Basic-Electrical	48
+C-Programming	48
+Digital-Logic	48
+Engineering-Drawing	48
+Mathematics	48
+Physics	48
